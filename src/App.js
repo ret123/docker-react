@@ -8,16 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Hi From React!!!!
+         Changed the feature text
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-        Changed on the feature branch!
-        </a>
+       
       </header>
     </div>
   );
